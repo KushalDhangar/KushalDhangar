@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Dhangar</h1>
 <h3 align="center">An Aspiring Software developer from India</h3>
 
-- 🌱 I’m currently learning **AWS cloud ,java programming language with DSA!!**
+- 🌱 I’m currently learning **Java programming language with DSA!!**
 
-- 💬 Ask me about **Html,Css ,java**
+- 💬 Ask me about **Html,Css ,Javascript**
 
 - 📫 How to reach me **AsYourBuddy@gmail.com**
 
